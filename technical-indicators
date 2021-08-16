@@ -1,11 +1,10 @@
 # REFERENCE: 
---------------------
+-----------------------
 https://s1.ai/shadowpad
 
 
 # TECHNICAL INDICATORS
---------------------
-
+-----------------------
 ## SHA256, File:
 
 c602456fae02510ff182b45d4ffb69ee6aae11667460001241685807db2e29c3
@@ -301,7 +300,7 @@ Spyder
 
 ## COMMAND & CONTROL
 
-ShadowPad C&C Servers - IP addresses:
+### ShadowPad C&C Servers - IP addresses:
 1.56.32[.]13
 101.78.177[.]244
 103.19.3[.]17
