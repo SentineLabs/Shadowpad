@@ -1,6 +1,12 @@
-TECHNICAL INDICATORS
+# REFERENCE: 
+--------------------
+https://s1.ai/shadowpad
 
-SHA256, File:
+
+# TECHNICAL INDICATORS
+--------------------
+
+## SHA256, File:
 
 c602456fae02510ff182b45d4ffb69ee6aae11667460001241685807db2e29c3
 ShadowPad
@@ -293,7 +299,7 @@ Spyder
 1496d62ba1b6fd6cfb85546fbfab57f75b0b3c6915dcce22cfaea9c51a9bd85e
 Spyder
 
-COMMAND & CONTROL
+## COMMAND & CONTROL
 
 ShadowPad C&C Servers - IP addresses:
 1.56.32[.]13
@@ -335,7 +341,7 @@ ShadowPad C&C Servers - IP addresses:
 61.172.253[.]9
 80.0.49[.]209
 
-ShadowPad C&C Servers - domains:
+### ShadowPad C&C Servers - domains:
 
 6czumi0fbg.symantecupd[.]com
 account.heatidc[.]com
@@ -439,8 +445,7 @@ SHA1 of Certificates on some of the servers used by Fishmonger:
 89edcffc66eda3aeb75e140816702f9ac73a75f0
 
 
-
-MITRE ATT&CK - OBSERVED TTPs:
+## MITRE ATT&CK - OBSERVED TTPs:
 
 Privilege Escalation
 T1055 - Process Injection
